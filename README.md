@@ -1,6 +1,8 @@
 ## Week 5 - Oct 26-30
 This week, a few sketches, more literature, precising an interaction.
 
+[Blair's post](/posts/blair_post_wk5.md)
+
 #### Links and literature
 - [Gaver's and Bowers' Annotated Portfolios](https://interactions.acm.org/archive/view/july-august-2012/annotated-portfolios)
 - [Devendorf's Making Design Memoirs: Understanding and Honoring Difficult Experiences.CHI '20](https://dl-acm-org.offcampus.lib.washington.edu/doi/10.1145/3313831.3376345)
@@ -14,6 +16,9 @@ This week, a few sketches, more literature, precising an interaction.
 #### Sketches
 <img src="/gab_sketch_wk5_1.jpg" width="40%"> <img src="/gab_sketch_wk5_2.jpg" width="40%"> </br>
 Gab's sketches. From this lot, we decided to explore the "autoportrait" idea further in a short write up.
+
+<img src="/images/blair_sketch_wk5_1.JPG" width="40%"> <img src="images/blair_sketch_wk5_2.jpg" width="40%"> </br>
+Blair's sketches. We decided to explore the "biosignal text messaging" idea further in a short write up, as well as incorporating the "biosignal synthesizer"'s exposing of the model parameters.
 
 ## Resources
 - [Google Drive](https://drive.google.com/drive/u/0/folders/0ANOdHyxe8_6lUk9PVA)

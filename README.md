@@ -1,8 +1,7 @@
 ## Week 5 - Oct 26-30
 This week, a few sketches, more literature, precising an interaction.
 
-[Blair's post](/posts/blair_post_wk5.md)
-
+[Blair's post](/posts/blair_post_wk5.md)  
 [Gab's post](/posts/gab_post_wk5.md)
 
 #### Links and literature

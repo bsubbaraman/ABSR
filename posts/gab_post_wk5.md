@@ -18,8 +18,7 @@ Alternatively, two or three participants could explore representation simultaneo
 This interaction invites participants to question what parameters and decisions went into the representation of their sensory experience/physiological processes and how much control they can exert over these representations.
 
 #### Adjacent projects:
-[Boehner’s and Sengers’ Affector](http://www.cs.cornell.edu/people/sengers/private/sengers-interfaces.pdf?origin=publication_detail)
-
+[Boehner’s and Sengers’ Affector](http://www.cs.cornell.edu/people/sengers/private/sengers-interfaces.pdf?origin=publication_detail)  
 [On evaluating Affector](http://teilab-static.arch.tamu.edu/quek/Classes/Aware+EmbodiedInteraction/EmbodiedInteractionPAPERS/SenBWJ05.pdf)
 
 ## Texting with biosignals
@@ -35,8 +34,7 @@ Alternatively, participants have no control about what they can send and through
 The problem with that is that there is a big lack of control that can be frustrating/feel arbitrary.
 
 #### Adjacent projects:
-Fannie Liu’s work
-
+Fannie Liu’s work  
 [Lauren McCarthy’s MWTIM](lauren-mccarthy.com/MWITM-Man-Woman-In-The-Middle)
 
 ## The politics of body and computation

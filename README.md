@@ -16,7 +16,7 @@ This week, a few sketches, more literature, precising an interaction.
 - [Fannie Liu & Andrés Monroy-Hernández | Expressive Biosignals: Lightweight Social Cues for Social Connection | July 31, 2019](https://vimeo.com/361315913)
 
 #### Sketches
-<img src="/gab_sketch_wk5_1.jpg" width="40%"> <img src="/gab_sketch_wk5_2.jpg" width="40%">  
+<img src="/images/gab_sketch_wk5_1.jpg" width="40%"> <img src="/images/gab_sketch_wk5_2.jpg" width="40%">  
 Gab's sketches. From this lot, we decided to explore the "autoportrait" idea further in a short write up.
 
 <img src="/images/blair_sketch_wk5_1.JPG" width="40%"> <img src="images/blair_sketch_wk5_2.jpg" width="40%">  

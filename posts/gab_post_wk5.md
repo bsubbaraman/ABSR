@@ -1,5 +1,5 @@
 ## Fleshing Out Ideas
-Two short write ups about possible interactions we might choose to focus on and one reflection on the body in computation.
+Two short write ups about possible interactions we might decide to focus on and one reflection on the body in computation.
 
 ## Portraiture in HCI
 

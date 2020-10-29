@@ -1,5 +1,5 @@
 ## Fleshing Out Ideas
-Two write ups about possible interactions we might choose to focus on and one reflection on the body in computation.
+Two short write ups about possible interactions we might choose to focus on and one reflection on the body in computation.
 
 ## Portraiture in HCI
 
@@ -19,6 +19,7 @@ This interaction invites participants to question what parameters and decisions 
 
 #### Adjacent projects:
 [Boehner’s and Sengers’ Affector](http://www.cs.cornell.edu/people/sengers/private/sengers-interfaces.pdf?origin=publication_detail)
+
 [On evaluating Affector](http://teilab-static.arch.tamu.edu/quek/Classes/Aware+EmbodiedInteraction/EmbodiedInteractionPAPERS/SenBWJ05.pdf)
 
 ## Texting with biosignals
@@ -35,6 +36,7 @@ The problem with that is that there is a big lack of control that can be frustra
 
 #### Adjacent projects:
 Fannie Liu’s work
+
 [Lauren McCarthy’s MWTIM](lauren-mccarthy.com/MWITM-Man-Woman-In-The-Middle)
 
 ## The politics of body and computation

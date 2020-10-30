@@ -13,7 +13,7 @@ This week, a few sketches, more literature, precising an interaction.
 - [Andersen's The Magic Machine Workshops: Making Personal Design Knowledge. CHI '19](https://dl-acm-org.offcampus.lib.washington.edu/doi/10.1145/3290605.3300342)
 - [Blythe's Imaginary Design Workbooks: Constructive Criticism and Practical Provocation. CHI '18](https://dl-acm-org.offcampus.lib.washington.edu/doi/10.1145/3173574.3173807)
 - [Boehner and al. How emotion is made and measured. (2007)](https://www.dourish.com/publications/2007/emotion-ijhcs.pdf)
-- [Fannie Liu & Andrés Monroy-Hernández | Expressive Biosignals: Lightweight Social Cues for Social Connection | July 31, 2019](https://vimeo.com/361315913)
+- [Fannie Liu & Andrés Monroy-Hernández. Expressive Biosignals: Lightweight Social Cues for Social Connection. July 31, 2019](https://vimeo.com/361315913)
 
 #### Sketches
 <img src="images/gab_sketch_wk5_1.jpg" width="40%"> <img src="images/gab_sketch_wk5_2.jpg" width="40%">  

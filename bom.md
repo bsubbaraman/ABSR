@@ -1,0 +1,16 @@
+## Bill of Materials
+- microcontroller(s):
+  - arduinos & compatible knockoffs 
+  - ada circuit playgrounds
+  - if we're feeling it, [tinyML boards](https://store.arduino.cc/usa/nano-33-ble-sense) or [tiny microcontrollers](https://www.microchip.com/wwwproducts/en/ATtiny85)
+- stuff to build a circuit:
+  - breadboard
+  - alligator clips/jumper wires
+  - assortment of resistors
+  - capacitors 
+  - stuff to test output: LEDs are good, maybe mini LCD, speaker, servo/stepper?
+  - stuff to test circuit: 
+  - stuff to play: photoresistor, button, potentiometer
+  - batteries (3v, 5v) 
+  - power supply (9V)
+  - ...

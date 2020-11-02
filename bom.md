@@ -14,3 +14,6 @@
   - batteries (3v, 5v) 
   - power supply (9V)
   - ...
+- machines & tools:
+  - soldering iron
+  - maybe a vinyl cutter or an axidraw? I'm thinking for the portrait piece.

@@ -2,6 +2,13 @@
 
 ### Week 6
 This week: 
+- get equipment/make BOM
+- fabrication first steps: getting a strong signal (maybe make our own biosensors?)
+- researching technical implementations/tools
+- focusing on the text messaging & portrait interactions
+- deciding on a context and a few RQs
+- NordiCHI workshop on Thursday (and then Monday and Tuesday next week)
+
 
 ### Week 5
 This week, a few sketches, more literature, precising an interaction.

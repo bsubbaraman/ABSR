@@ -2,12 +2,14 @@
 
 ### Week 6
 This week: 
-- get equipment/put together a [BOM](https://github.com/bsubbaraman/ABSR/blob/gh-pages/bom.md)
+- get equipment/put together a [BOM](bom.md)
 - fabrication first steps: getting a strong signal (maybe make our own biosensors? Here's an example of a [DIY GSR sensor](http://ftmedia.eu/diy-gsr-sensor/) where the body serves as a resistor in the circuit; increases in skin conductivity decrease the overall circuit resistance and yield a reading. [This guy's video](https://www.youtube.com/watch?v=ljVQpwVHpOo&feature=emb_logo) is a good complement.)
 - researching technical implementations/tools
 - focusing on the text messaging & portrait interactions
 - deciding on a context and a few RQs
 - NordiCHI workshop on Thursday (and then Monday and Tuesday next week)
+
+[Blair's post](/posts/blair_post_wk6.md)
 
 
 ### Week 5

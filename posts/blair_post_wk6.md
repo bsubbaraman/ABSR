@@ -1,1 +1,6 @@
-post
+## Fabrication First Steps!
+
+I am waiting to get access to the Make lab to gather more physical computing materials (Jane is back today (11/5 so this will happen soon :). I didn't have enough components to throw together a biosensor. But! I found that [heart rate can me measured from RGB video from a webcam](https://ep.liu.se/ecp/129/002/ecp16129002.pdf). This method has been implemented [here](https://github.com/habom2310/Heart-rate-measurement-using-camera). I decided to explore this a bit to experiment with interaction flow, even if the sensing device will change significantly.
+
+### Zoom Biosensing
+Using a webcam to monitor heart rate makes image filters an easy way to represent the data. Moreover, in establishing a context for this mini investigation, I wanted to get this webcam filter to Zoom. Zoom has become synonymous with social interaction during COVID. I wanted to play with 'biofeedback at a distance' or [long distance intimacy](https://alumni.media.mit.edu/~jofish/writing/io-chi-short-paper.pdf) in this context. Zoom is perhaps an interesting site to explore the ways in which biodata is leveraged for surveillance during the pandemic, i.e. [during exams](https://www.forbes.com/sites/zakdoffman/2020/04/24/no-lockdown-exams-sorry-kids-this-creepy-webcam-tech-lets-you-sit-them-at-home/?sh=4f5393c45cc5) to track eye gaze.

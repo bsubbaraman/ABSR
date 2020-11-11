@@ -1,1 +1,11 @@
+## Text Message Ineraction 
 
+### Some (Very) Related Research
+The literature gathered about The Project in general is certainly still related here, but there's a good bit of work specifically around text messages + physiological signals. Here's a start:
+- [Hua Wang, Helmut Prendinger, and Takeo Igarashi. 2004. Communicating emotions in online chat using physiological sensors and animated text.](https://www-ui.is.s.u-tokyo.ac.jp/~takeo/papers/chi2004.pdf) In <i>CHI '04 Extended Abstracts on Human Factors in Computing Systems</i> (<i>CHI EA '04</i>).
+- [Romina Poguntke, Tamara Mantz, Mariam Hassib, Albrecht Schmidt, and Stefan Schneegass. 2019. Smile to Me: Investigating Emotions and their Representation in Text-based Messaging in the Wild.](https://sci-hub.se/10.1145/3340764.3340795) In <i>Proceedings of Mensch und Computer 2019</i> (<i>MuC'19</i>).
+- [Mariam Hassib, Daniel Buschek, Paweł W. Wozniak, and Florian Alt. 2017. HeartChat: Heart Rate Augmented Mobile Chat to Support Empathy and Awareness.](https://www.medien.ifi.lmu.de/pubdb/publications/pub/hassib2017chi1/hassib2017chi1.pdf) In <i>Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems</i> (<i>CHI '17</i>).
+- [Jackson Feijó Filho, Wilson Prata, and Thiago Valle. 2015. Demo: Continuous Emotional Status in Mobile-Mediated Communications.](https://avestia.com/MHCI2014_Proceedings/papers/136.pdf) In <i>Proceedings of the 13th Annual International Conference on Mobile Systems, Applications, and Services</i> (<i>MobiSys '15</i>).
+- [Fannie Liu, Mario Esparza, Maria Pavlovskaia, Geoff Kaufman, Laura Dabbish, and Andrés Monroy-Hernández. 2019. Animo: Sharing Biosignals on a Smartwatch for Lightweight Social Connection.](https://dl.acm.org/doi/pdf/10.1145/3314405) <i>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</i>
+
+In general these projects seem to (1) take biodata as 'real', mapping one-to-one onto actual emotion and (2) practical, looking at how 'optimize meaning' in text-based communication. Consequently, there might be space for a design intervention which is (1) critical, complicating the meaning associated with biosignals and (2) maintains a poetic edge, prompting individual and mutual reflection engagement rather than increasing the information density of text messages.

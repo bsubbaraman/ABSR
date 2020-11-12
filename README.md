@@ -8,7 +8,7 @@ This week:
   - RQ1: How can biodata foster long-distance intimacy?
   - RQ2: How can alternative (i.e. non-numerical) representations of biodata foster critical reflection on the body as a site of political contestation?/body as a site of knowledge?
 
-[Blair's post](posts/blair_post_wk7.md)
+[Blair's post](posts/blair_post_wk7.md)  
 [Gab's post](posts/gab_post_wk7.md)
 
 ### Week 6

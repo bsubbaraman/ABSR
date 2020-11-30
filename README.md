@@ -2,9 +2,9 @@
 ### Week 10
 What happened the last three weeks!? Gab had prelims and then it was Thanksgiving! 
 
-Last week, Gab tried to make [this circuit] (http://www.chris3000.com/wp-content/uploads/2010/02/Gsr02.jpg) but didn't have the necessary [op amps] (https://www.digchip.com/datasheets/parts/datasheet/041/OP471A.php). Then she tried to have two microcontrollers talk to one another but needed WiFi-enabled microcontrollers (such as AF's [feather Huzzah] (https://www.adafruit.com/product/2821) – out of stock).
+Last week, Gab tried to make [this circuit](http://www.chris3000.com/wp-content/uploads/2010/02/Gsr02.jpg) but didn't have the necessary [op amps](https://www.digchip.com/datasheets/parts/datasheet/041/OP471A.php). Then she tried to have two microcontrollers talk to one another but needed WiFi-enabled microcontrollers (such as AF's [feather Huzzah](https://www.adafruit.com/product/2821) – out of stock).
 
-Therefore trying to work with what she has, which is a bunch of standard electronic parts, such as a generic ultrasonic sensor that she might be able to turn into a breath sensor (inspiration [here] (https://link-springer-com.offcampus.lib.washington.edu/chapter/10.1007/978-981-10-4361-1_23))
+Therefore trying to work with what she has, which is a bunch of standard electronic parts, such as a generic ultrasonic sensor that she might be able to turn into a breath sensor (inspiration [here](https://link-springer-com.offcampus.lib.washington.edu/chapter/10.1007/978-981-10-4361-1_23))
 
 
 ### Week 7

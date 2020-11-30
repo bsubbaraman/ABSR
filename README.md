@@ -4,7 +4,11 @@ What happened the last three weeks!? Gab had prelims and then it was Thanksgivin
 
 Last week, Gab tried to make [this circuit](http://www.chris3000.com/wp-content/uploads/2010/02/Gsr02.jpg) but didn't have the necessary [op amps](https://www.digchip.com/datasheets/parts/datasheet/041/OP471A.php). Then she tried to have two microcontrollers talk to one another but needed WiFi-enabled microcontrollers (such as AF's [feather Huzzah](https://www.adafruit.com/product/2821) – out of stock).
 
-Therefore trying to work with what she has, which is a bunch of standard electronic parts, such as a generic ultrasonic sensor that she might be able to turn into a breath sensor (inspiration [here](https://link-springer-com.offcampus.lib.washington.edu/chapter/10.1007/978-981-10-4361-1_23))
+In the spirit of working with what she has, which is a bunch of standard electronic parts, she'll try to turn her generic ultrasonic sensor into a breath sensor (inspiration [here](https://link-springer-com.offcampus.lib.washington.edu/chapter/10.1007/978-981-10-4361-1_23)).
+
+Also, [DIS is happening this year!](https://dis.acm.org/2021/) Should we try to make the paper/pictorial deadline (prob late Jan)?
+
+I think we need to think about RQ2 more and how it's actually explored in this work. This [paper](https://www-tandfonline-com.offcampus.lib.washington.edu/doi/full/10.1080/09589236.2017.1297888) made me think that it'd be great to have a site, where the IoT interaction changes real-life intimate relationships or relationships dynamics (the part of the article on postfeminist intimacies is interesting).
 
 
 ### Week 7

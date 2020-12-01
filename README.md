@@ -11,7 +11,7 @@ Also, [DIS is happening this year!](https://dis.acm.org/2021/) Should we try to 
 I think we need to think about RQ2 more and how it's actually explored in this work. I've been thinking about: 
 - the politics of knowledge: which knowledge is valid, which is not, how does technology propagates a certain type of knowledge -- but does it? That, in and of itself, is an interesting question. We assume digital tech deploys a certain logic into the world but does it?
 - Politics of knowledge bring us back to Foucault, and also Isabelle Stengers
-- [Human-Computer Insurrection](https://arxiv.org/pdf/1908.06167.pdf) (which I suspect, knowing Os, is a nod to the [Coming Insurrection](https://theanarchistlibrary.org/library/comite-invisible-the-coming-insurrection)) 
+- [Human-Computer Insurrection](https://arxiv.org/pdf/1908.06167.pdf) (which I suspect is a nod to the [Coming Insurrection](https://theanarchistlibrary.org/library/comite-invisible-the-coming-insurrection)) 
 
 
 ### Week 7

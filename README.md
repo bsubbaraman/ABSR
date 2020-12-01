@@ -4,11 +4,14 @@ What happened the last three weeks!? Gab had prelims and then it was Thanksgivin
 
 Last week, Gab tried to make [this circuit](http://www.chris3000.com/wp-content/uploads/2010/02/Gsr02.jpg) but didn't have the necessary [op amps](https://www.digchip.com/datasheets/parts/datasheet/041/OP471A.php). Then she tried to have two microcontrollers talk to one another but needed WiFi-enabled microcontrollers (such as AF's [feather Huzzah](https://www.adafruit.com/product/2821) – out of stock).
 
-In the spirit of working with what she has, which is a bunch of standard electronic parts, she'll try to turn her generic ultrasonic sensor into a breath sensor (inspiration [here](https://link-springer-com.offcampus.lib.washington.edu/chapter/10.1007/978-981-10-4361-1_23)).
+In the spirit of working with what she has, which is a bunch of standard electronic parts, she'll try to turn her generic ultrasonic sensor into a breath sensor (inspiration [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4179033/pdf/sensors-14-15371.pdf)).
 
 Also, [DIS is happening this year!](https://dis.acm.org/2021/) Should we try to make the paper/pictorial deadline (prob late Jan)?
 
-I think we need to think about RQ2 more and how it's actually explored in this work. This [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4179033/pdf/sensors-14-15371.pdf) made me think that it'd be great to have a site, where the IoT interaction changes real-life intimate relationships or relationships dynamics (the part of the article on postfeminist intimacies is interesting).
+I think we need to think about RQ2 more and how it's actually explored in this work. I've been thinking about: 
+- the politics of knowledge: which knowledge is valid, which is not, how does technology propagates a certain type of knowledge -- but does it? That, in and of itself, is an interesting question. We assume digital tech deploys a certain logic into the world but does it?
+- Politics of knowledge bring us back to Foucault, and also Isabelle Stengers
+- [Human-Computer Insurrection](https://arxiv.org/pdf/1908.06167.pdf) (which I suspect, knowing Os, is a nod to the [Coming Insurrection](https://theanarchistlibrary.org/library/comite-invisible-the-coming-insurrection)) 
 
 
 ### Week 7

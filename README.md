@@ -8,7 +8,7 @@ In the spirit of working with what she has, which is a bunch of standard electro
 
 Also, [DIS is happening this year!](https://dis.acm.org/2021/) Should we try to make the paper/pictorial deadline (prob late Jan)?
 
-I think we need to think about RQ2 more and how it's actually explored in this work. This [paper](https://www-tandfonline-com.offcampus.lib.washington.edu/doi/full/10.1080/09589236.2017.1297888) made me think that it'd be great to have a site, where the IoT interaction changes real-life intimate relationships or relationships dynamics (the part of the article on postfeminist intimacies is interesting).
+I think we need to think about RQ2 more and how it's actually explored in this work. This [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4179033/pdf/sensors-14-15371.pdf) made me think that it'd be great to have a site, where the IoT interaction changes real-life intimate relationships or relationships dynamics (the part of the article on postfeminist intimacies is interesting).
 
 
 ### Week 7

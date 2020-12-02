@@ -2,16 +2,16 @@
 ### Week 10
 What happened the last three weeks!? Gab had prelims and then it was Thanksgiving! 
 
-Last week, Gab tried to make [this circuit](http://www.chris3000.com/wp-content/uploads/2010/02/Gsr02.jpg) but didn't have the necessary [op amps](https://www.digchip.com/datasheets/parts/datasheet/041/OP471A.php). Then she tried to have two microcontrollers talk to one another but needed WiFi-enabled microcontrollers (such as AF's [feather Huzzah](https://www.adafruit.com/product/2821) – out of stock).
+News:
+[DIS is happening this year!](https://dis.acm.org/2021/) Should we try to make the paper/pictorial deadline (prob late Jan)?
 
-In the spirit of working with what she has, which is a bunch of standard electronic parts, she'll try to turn her generic ultrasonic sensor into a breath sensor (inspiration [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4179033/pdf/sensors-14-15371.pdf)).
-
-Also, [DIS is happening this year!](https://dis.acm.org/2021/) Should we try to make the paper/pictorial deadline (prob late Jan)?
-
-I think we need to think about RQ2 more and how it's actually explored in this work. I've been thinking about: 
-- the politics of knowledge: which knowledge is valid, which is not, how does technology propagates a certain type of knowledge -- but does it? That, in and of itself, is an interesting question. We assume digital tech deploys a certain logic into the world but does it?
+Let's focus more on RQ2. Specifically: 
+- the politics of knowledge: which knowledge is valid, which is not, how does technology propagates a certain type of logic into the world... but does it?
 - Politics of knowledge bring us back to Foucault, and also Isabelle Stengers
-- [Human-Computer Insurrection](https://arxiv.org/pdf/1908.06167.pdf) (which I suspect is a nod to the [Coming Insurrection](https://theanarchistlibrary.org/library/comite-invisible-the-coming-insurrection)) 
+- The body as a site of knowledge that has been historically dismissed in computing (and I'm down to unpack that history for the paper)
+- Work that deals 
+
+Inspiration: [Human-Computer Insurrection](https://arxiv.org/pdf/1908.06167.pdf) (def a nod of to the [Coming Insurrection](https://theanarchistlibrary.org/library/comite-invisible-the-coming-insurrection)) 
 
 [Gab's post](posts/gab_post_wk10.md)
 

@@ -15,7 +15,7 @@ Let's focus more on RQ2. Specifically:
   
 <img src="/images/Sapta_Chakra_1899.jpg" width="35%">
 
-More inspiration: [Human-Computer Insurrection](https://arxiv.org/pdf/1908.06167.pdf)
+More inspiration: [Human-Computer Insurrection.](https://arxiv.org/pdf/1908.06167.pdf)
 
 [Gab's post](posts/gab_post_wk10.md)
 

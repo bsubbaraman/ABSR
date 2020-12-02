@@ -13,6 +13,8 @@ I think we need to think about RQ2 more and how it's actually explored in this w
 - Politics of knowledge bring us back to Foucault, and also Isabelle Stengers
 - [Human-Computer Insurrection](https://arxiv.org/pdf/1908.06167.pdf) (which I suspect is a nod to the [Coming Insurrection](https://theanarchistlibrary.org/library/comite-invisible-the-coming-insurrection)) 
 
+Gab's post
+
 
 ### Week 7
 This week:

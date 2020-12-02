@@ -9,9 +9,11 @@ Let's focus more on RQ2. Specifically:
 - the politics of knowledge: which knowledge is valid, which is not, how does technology propagates a certain type of logic into the world... but does it?
 - Politics of knowledge bring us back to Foucault, and also Isabelle Stengers
 - The body as a site of knowledge that has been historically dismissed in computing (and I'm down to unpack that history for the paper)
-- Work that deals 
+- Work that deals with the body in interaction design and HCI often deals with the "medical" body, the visible body but there are interesting traditions that engage with the "invisible" or subtle body.
+- What would it mean --politically and in terms of design possibilities-- to design for the subtle body?
+  - magic machines workshop might be a good inspiration here.
 
-Inspiration: [Human-Computer Insurrection](https://arxiv.org/pdf/1908.06167.pdf) (def a nod of to the [Coming Insurrection](https://theanarchistlibrary.org/library/comite-invisible-the-coming-insurrection)) 
+More inspiration: [Human-Computer Insurrection](https://arxiv.org/pdf/1908.06167.pdf)
 
 [Gab's post](posts/gab_post_wk10.md)
 

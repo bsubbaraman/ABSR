@@ -3,18 +3,7 @@
 <img src="/images/ultrasound_IIR.jpeg" width="60%">
 a sketch
 
-<div class="embed-container">
-  <iframe
-      src="https://vimeo.com/486495941"
-      width="500"
-      height="281"
-      frameborder="0"
-      webkitallowfullscreen
-      mozallowfullscreen
-      allowfullscreen>
-  </iframe>
-</div>
-a video
+[![A dc motor controlled with a generic ultrasound sensor](https://i.vimeocdn.com/video/1006982921_130x73.jpg)](https://vimeo.com/486495941)
 
 ### Some thoughts
 

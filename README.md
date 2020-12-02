@@ -11,7 +11,9 @@ Let's focus more on RQ2. Specifically:
 - The body as a site of knowledge that has been historically dismissed in computing (and I'm down to unpack that history for the paper)
 - Work that deals with the body in interaction design and HCI often deals with the "medical" body, the visible body but there are interesting traditions that engage with the "invisible" or subtle body.
 - What would it mean --politically and in terms of design possibilities-- to design for the subtle body?
-  - magic machines workshop might be a good inspiration here.
+  - magic machines workshop might be a good inspiration here.  
+  
+<img src="/images/Sapta_Chakra_1899.jpg" width="35%">
 
 More inspiration: [Human-Computer Insurrection](https://arxiv.org/pdf/1908.06167.pdf)
 

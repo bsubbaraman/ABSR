@@ -1,8 +1,8 @@
 ## Week 10 explorations
 
 ### Some stuff
-<img src="/images/generic supplies.jpg" width="60%">  
-<img src="/images/ultrasound_IIR.jpeg" width="60%">
+<img src="images/generic supplies.jpg" width="60%">  
+<img src="images/ultrasound_IIR.jpeg" width="60%">
 
 Last week, I tried to make [this circuit](http://www.chris3000.com/wp-content/uploads/2010/02/Gsr02.jpg) but didn't have the necessary [op amps](https://www.digchip.com/datasheets/parts/datasheet/041/OP471A.php). Then I tried to have two microcontrollers talk to one another but needed WiFi-enabled microcontrollers (such as AF's [feather Huzzah](https://www.adafruit.com/product/2821) – out of stock).
 

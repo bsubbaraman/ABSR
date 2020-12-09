@@ -4,6 +4,7 @@ Following up on the [provocation](https://github.com/bsubbaraman/ABSR/blob/gh-pa
 - sorted each poem in Maggie Nelson's _Bluets_ by sentiment (see [here](https://docs.google.com/spreadsheets/d/1goRS_0dwEgb-lErcyWbZTDuRooh4LvWXZpBV-EW5CfQ/edit?usp=sharing)). (chosen as an example to lean in to the interpretation possible in poetry (and its form was conducive to 'logging')).
 - map temperature reading [~70-85F] to sentiment [-1 (most neg),1 (most pos)], find closest match
 - sample log from blowing on the sensor and letting it cool off (this ranges from most positive (sentiment score ~0.9) to neutral (sentiment score ~0.1):
+
 > The half-circle of blinding turquoise ocean is this love’s primal scene. That this blue exists makes my life a remarkable one, just to have seen it. To have seen such beautiful things. To find oneself placed in their midst. Choiceless. I returned there yesterday and stood again upon the mountain.
 
 > This idea has its charms, but I think it possible that I have watched too many blue movies for it to have a lasting hold on me. If you grow accustomed to wall-to-wall, even the slightest shred of mystery or plot can become an agitation. Who cares why these people have found themselves in this banal, suburban tract home in Burbank? He is not a delivery man; she is not a bored housewife. They are not the stars—their orifices are. Let them open.

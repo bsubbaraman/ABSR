@@ -1,5 +1,5 @@
 ## Logging Text Data
-Following up on the [provocation](https://github.com/bsubbaraman/ABSR/blob/gh-pages/posts/blair_post_wk10.md#another-text-based-provocation) from last week:
+Following up on the [provocation](https://bsubbaraman.github.io/ABSR/posts/blair_post_wk10.html) from last week:
 
 - sorted each poem in Maggie Nelson's _Bluets_ by sentiment (see [here](https://docs.google.com/spreadsheets/d/1goRS_0dwEgb-lErcyWbZTDuRooh4LvWXZpBV-EW5CfQ/edit?usp=sharing)). (chosen as an example to lean in to the interpretation possible in poetry (and its form was conducive to 'logging')).
 - map temperature reading [~70-85F] to sentiment [-1 (most neg),1 (most pos)], find closest match

@@ -4,7 +4,7 @@
 What are (some of) the smallest changes to current biosensing technologies that might leverage the exiting political capacities of biosensing to speak to our research questions? Following up on the [provocation](https://bsubbaraman.github.io/ABSR/posts/blair_post_wk10.html) from last week, one such change might be to log text instead of numbers; to tell a (literal) story with your body.
 
 ### Prototyping
-I stuck to software (mostly) this past week to get a sense of the interaction. The code is in the [`main` branch](https://github.com/bsubbaraman/ABSR/tree/main) of the working repo. It uses [Natural Language Toolkit](https://www.nltk.org/) to tokenize text documents into sentences and to evaluate sentiment (this in turn uses [VADER-sentiment-analysis](https://github.com/cjhutto/vaderSentiment)) which provides 'sentiment' from -1 (most negative) to 1 (most positive). As far as I know, these are standard ways to quickly set up basic nlp projects. Might be interesting to speak to people who do NLP Stuff, too- though since this is a design intevention not a technological one, it seems worthwhile to minimize complexity here. I've included a couple of texts - Maggie Nelson's _Bluets_ (poetry) and Foucault's _Discipline & Punish_ as starting examples, but any text can be uploaded for use (more on that below).
+I stuck to software (mostly) this past week to get a sense of the interaction. The code is in the [`main` branch](https://github.com/bsubbaraman/ABSR/tree/main) of the working repo. It uses [Natural Language Toolkit](https://www.nltk.org/) to tokenize text documents into sentences and to evaluate sentiment (this in turn uses [VADER-sentiment-analysis](https://github.com/cjhutto/vaderSentiment)) which provides 'sentiment' from -1 (most negative) to 1 (most positive). As far as I know, these are standard ways to quickly set up basic nlp projects. Might be interesting to speak to people who do NLP Stuff, too- though since this is a design intevention not a technological one, it seems worthwhile to minimize complexity here. I've included a few texts - Maggie Nelson's _Bluets_ (poetry), Foucault's _Discipline & Punish_, and a physics textbook on optics -  as starting examples, but any text can be uploaded for use (more on that below).
 
 In lieu of any biosensor, I have a temperature sensor connected to an Arduino, communicating with python over serial. Incoming temperature data is mapped from to the range [-1,1], and the sentence of the source material chosen with the closest sentiment is printed out. The text data is also kept in a log to see everything together at once, as well as the raw data from the Arduino so the text log can be re-generated with different texts/mappings/etc. For control over mappings, I added a few 'curves' that might work something like ['easing functions'](https://easings.net/) for text: after translating the data into a range from -1 to 1, you can specify the mapping to be of order 1,2, or 3; one is linear (low values are mapped to negative sentiments & high values to positive), 2 is parabolic (no negative results, low & high values are both mapped to very positive with the middle being more neutral), and 3 is cubic (low values are negative and high values are positive, but the transition is quicker making it more polarized). Definitely more thought to be put into these mappings.
 
@@ -42,33 +42,6 @@ When the pain is bad it drains her color.
 
 This is how a prince of blue becomes a pain devil.
 
-#### Bluets (parabolic)
-“You cannot step into the same river twice”—a heartening anthem, without a doubt.
-
-My Thought has thought itself through and reached a Pure Idea.
-
-A friend had been in an accident.
-
-When I looked up you were escaping on a skiff, suddenly wanted.
-
-Duras did not think of alcohol as a false god, but rather as a kind of placeholder, a squatter in the space made by God’s absence.
-
-Goethe describes blue as a lively color, but one devoid of gladness.
-
-To be fair, this book will not tell you about any, either.
-
-But really this is like hoisting a harness onto an invisible horse.
-
-It was around this time that I first had the thought: we fuck well because he is a passive top and I am an active bottom.
-
-An appreciation, an affinity.
-
-“A spectacle and nothing strange a single hurt color and an arrangement in a system to pointing,” I read aloud, scanning the room for a face that also shows signs of being worried about hurt colors.
-
-Others, like Epicurus, proposed the inverse—that objects themselves project a kind of ray that reaches out toward the eye, as if they were looking at us (and surely some of them are).
-
-
-
 #### Foucault (linear)
 But the delicate mechanism of the passions must not be constrained in the same way or with the same insistence when they begin to improve; the punishment should diminish as it produces its effects.
 
@@ -99,6 +72,76 @@ This individualization was to weigh very heavily throughout the history of moder
 They even go beyond it … God, who has imprinted in our hearts an aversion to pain for ourselves and for our fellow men, are they then those same beings, whom thou hast created so weak and so sensible, who have invented such barbarous, such refined tortures?’ (Lacretelle, 129).
 
 In this way all arbitrariness ceases; the penalty does not depend on the caprice of the legislator, but on the nature of the thing; it is not man who does violence to man, but the man’s own action’ (article 67).
+
+#### Physics Textbook (linear)
+You might think that it would be extremely difficult to analyze this, but in fact it is quite easy.
+
+Einstein predicted that light beams would be very slightly deflected by strong gravitational fields, and he was proven correct by observations of rays of starlight that came close to the sun, but obviously that’s not what makes mirrors and lenses work!
+
+This is an example of a general idea enunciated by the physicist Niels Bohr, called the correspondence principle: when flaws in a physical theory lead to the creation of a new and more general theory, the new theory must still agree with the old theory within its more restricted area of applicability.
+
+(If your house has electric heat, then there is absolutely no point in fastidiously turning off lights in the winter; the lights will help to heat the house at the same dollar rate as the electric heater.)
+
+Let’s start with the motion of light that is not interacting with matter at all.
+
+Christian fundamentalists who perceive a conflict between evolution and their religion have claimed that the eye is such a perfect device that it could never have arisen through a process as helter-skelter as evolution, or that it could not have evolved because half of an eye would be useless.
+
+No, the reason it has to be so big is a matter of wave optics.
+
+That would just be too bizarre to believe!
+
+Newton wrote a book on optics, and his prestige and political prominence tended to discourage questioning of his model.
+
+The equation he came up with was
+
+sin 0 |
+
+——= constant .
+
+In general, what combinations of distances will lead to completely destructive and completely constructive interference?
+
+There are two ways in which restriction (2) might commonly be violated.
+
+The trouble with this approach is that one is then forced to memorize tables of sign conventions, e.g.
+
+Section 3.1 A Real Image Formed by an In-Bending Mirror
+
+
+3.2 Other Cases With Curved Mirrors
+
+The equation = (1 If - l/ify) can easily produce a negative result,
+
+but we have been thinking of d. as a distance, and distances can’t be negative.
+
+One interesting result is that the average light-skinned person in the U.S. would rather lose an arm than suffer the racist treatment routinely endured by African-Americans.
+
+
+
+#### Bluets (parabolic)
+“You cannot step into the same river twice”—a heartening anthem, without a doubt.
+
+My Thought has thought itself through and reached a Pure Idea.
+
+A friend had been in an accident.
+
+When I looked up you were escaping on a skiff, suddenly wanted.
+
+Duras did not think of alcohol as a false god, but rather as a kind of placeholder, a squatter in the space made by God’s absence.
+
+Goethe describes blue as a lively color, but one devoid of gladness.
+
+To be fair, this book will not tell you about any, either.
+
+But really this is like hoisting a harness onto an invisible horse.
+
+It was around this time that I first had the thought: we fuck well because he is a passive top and I am an active bottom.
+
+An appreciation, an affinity.
+
+“A spectacle and nothing strange a single hurt color and an arrangement in a system to pointing,” I read aloud, scanning the room for a face that also shows signs of being worried about hurt colors.
+
+Others, like Epicurus, proposed the inverse—that objects themselves project a kind of ray that reaches out toward the eye, as if they were looking at us (and surely some of them are).
+
 
 #### Foucault (cubic)
 It was a coded action, of course, since custom and, often quite explicitly, the sentence prescribed its principal episodes.

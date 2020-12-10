@@ -1,6 +1,7 @@
 ## Weekly log
 ### Week 11
 [Blair's post](posts/blair_post_wk11.md)
+[Gab's post](posts/gab_post_wk11.md)
 
 ### Week 10
 What happened the last three weeks!? Gab had prelims and then it was Thanksgiving! 

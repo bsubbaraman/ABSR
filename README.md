@@ -2,7 +2,7 @@
 
 ## Week 12 | Last week of fall quarter
 Gab's post
-
+[Blair's post](posts/blair_post_wk12.md)
 
 ### Week 11
 [Blair's post](posts/blair_post_wk11.md)  

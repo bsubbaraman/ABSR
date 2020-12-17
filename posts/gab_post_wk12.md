@@ -44,7 +44,7 @@ Based on the sport watch tutorial, here's a tentative outline of what needs to h
 
 **Steps**
 
-PROTOTYPE A
+PROTOTYPE A   
 For a quick and dirty prototype
 
 1. Connect all your components: sensor + mc + ESP
@@ -52,7 +52,7 @@ For a quick and dirty prototype
 4. Process data
 5. Send the txt file via email? (for now, until we get a mini printer)
 
-PROTOTYPE B
+PROTOTYPE B  
 Still breadboarding
 
 1. Figure out the sensor situation. If it's GSR, then we need to think of a GSR that wouldn't necessarily need to be attached to your fingers because that might be distracting. Heart rate might be easier? GSR is just more fun/relevant to the project I find.
@@ -61,7 +61,7 @@ Still breadboarding
 4. Process data
 5. Send the txt to a printer that will print it
 
-PROTOTYPE C
+PROTOTYPE C    
 From breadboard to protoboard
 
 1. 

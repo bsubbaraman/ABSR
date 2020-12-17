@@ -1,7 +1,7 @@
 ## Weekly log
 
 ## Week 12 | Last week of fall quarter
-Gab's post
+[Gab's post](posts/gab_post_wk12.md)
 [Blair's post](posts/blair_post_wk12.md)
 
 ### Week 11

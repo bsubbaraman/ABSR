@@ -5,11 +5,11 @@ It's the end of the quarter! We all successfully survived and are ready to enter
 
 After talking to Blair and meeting with Daniela this week, I've precised some of my thinking about how to frame this project so that it appears like a relevant contribution.
 
-A few scattered thoughts:
-**Focus on the design intervention**
-The rest will flow from there. It shouldn't be a heavy historical contribution (which, according to Daniela, wouldn't even be considered by the DIS community) but a design one with a solid historical and critical *framing.* The [Pataphysical Software](https://doi-org.offcampus.lib.washington.edu/10.1145/3357236.3395526) paper might be a good inspiration in this regard.
+A few scattered thoughts:  
+**Focus on the design intervention**  
+The rest will flow from there. It shouldn't be a heavy historical contribution (which, according to Daniela, wouldn't even be considered by the DIS community) but a design one with a solid historical and critical *framing.* The [Pataphysical Software](https://doi-org.offcampus.lib.washington.edu/10.1145/3357236.3395526) paper might be a good inspiration in this regard.  
 
-**Methodological contribution**
+**Methodological contribution**  
 Weaving the design inquiry with an autoethnography isn't something new. Audrey calls it "first-person research method" (autobiographical design being a big one - see [this workshop](http://clab.iat.sfu.ca/pubs/Lucero-DesignForOne-DIS2019.pdf) from last year's DIS). But our intervention is a little different in that it deals with the body -- something that is inherently biographical, so to speak.
 
 Very plainly, the soma-narratives are doing two things:
@@ -20,8 +20,8 @@ In this regard, the choice of text is very important, and there might an occasio
 
 Finally, the intimacy part of the project is relevant to the exploration of body and text but we need to think more about how it fits with the other parts. Perhaps because the experience of the body is inherently intimate and therefore autobiographical? Maybe that's the link.
 
-**Build it fast, think after**
-Enough said.
+**Build it fast, think after**  
+Enough said.  
 
 ### stuff
 

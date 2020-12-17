@@ -5,7 +5,7 @@
 - ^ i think you can also get access to your google search history and use that. my thought with these is to have an option that moves away from letting a single other person (i.e. the author of the text) 'speak' for your body.
 
 ## WeBSR :)
-I have basically no experience with web dev... so obviously the best decision was to make bring ABSR to the web: thus, WeBSR (or maybe now it's the WeBodyTeller?). This is mostly just to get off the command line a bit, & makes for easier reading & re-formatting of the logs. I don't really know javascript and previous code was python, so I tried out [Flask](https://flask.palletsprojects.com/en/1.1.x/), a python web framework. (note that this is not for storing and sharing personal logs with others, but maybe it could be?). Didn't bother reimplementing realtime logging since we'll soon be moving to WiFi over Serial, but the result is this ugly but semi-functional site:
+I have basically no experience with web dev... so obviously the best decision was to bring ABSR to the web: thus, WeBSR (or maybe now it's the WeBodyTeller?). This is mostly just to get off the command line a bit, & makes for easier reading & re-formatting of the logs. I don't really know javascript and previous code was python, so I tried out [Flask](https://flask.palletsprojects.com/en/1.1.x/), a python web framework. (note that this is not for storing and sharing personal logs with others, but maybe it could be?). Didn't bother reimplementing realtime logging since we'll soon be moving to WiFi over Serial, but the result is this ugly but semi-functional site:
 
 
 [![Watch the video](../images/websr_thumbnail.png)](https://vimeo.com/492232435)

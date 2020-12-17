@@ -5,7 +5,8 @@ It's the end of the quarter! We all successfully survived and are ready to enter
 
 After talking to Blair and meeting with Daniela this week, I've precised some of my thinking about how to frame this project so that it appears like a relevant contribution.
 
-A few scattered thoughts:  
+A few scattered thoughts:
+
 **Focus on the design intervention**  
 The rest will flow from there. It shouldn't be a heavy historical contribution (which, according to Daniela, wouldn't even be considered by the DIS community) but a design one with a solid historical and critical *framing.* The [Pataphysical Software](https://doi-org.offcampus.lib.washington.edu/10.1145/3357236.3395526) paper might be a good inspiration in this regard.  
 
@@ -25,14 +26,14 @@ Enough said.
 
 ### stuff
 
-**Resources**
+**Resources**  
 [wristband podometer tutorial](https://www.instructables.com/How-to-Make-a-Wristband-Pedometer/) - very basic
 [Arduino sport watch tutorial](https://www.instructables.com/DIY-Arduino-Watch-Sport-20/) - a lot more detailed! Very useful.
 I also had an old Jawbone Up24 (used to be the Cadillac of sensing tech, now a failed startup) and found this [greaaat video](https://www.youtube.com/watch?v=sRjHAGsl6ws) from the [EEV blog](https://www.eevblog.com/) that takes one apart. Very useful to see how they sandwiched the wiring between the PCB and MC to make everything compact.
 
 Based on the sport watch tutorial, here's a tentative outline of what needs to happen:
 
-**Materials**
+**Materials**  
 - battery 3.7v-240mA
 - microcontroller
 - ESP32

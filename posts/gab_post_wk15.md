@@ -4,7 +4,7 @@ Actually got to send data to a web page but not really getting a clear sensor si
 **The circuit**  
 <img src="/images/wk15exp/IMG_0135.jpg" width="40%">
 
-**Materials**
+**Materials**  
 ESP8266/nodeMCU  
 1k resistor  
 LDR  

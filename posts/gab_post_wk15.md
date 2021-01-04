@@ -13,7 +13,7 @@ breadboard
 micro usb to USB B  
 
 **Sensor reading?**    
-<img src="/images/wk15exp/wk15-3.jpg" width="40%"><img src="/images/wk15exp/wk15-4.jpg" width="40%">
+<img src="/images/wk15exp/wk15-3.png" width="40%"><img src="/images/wk15exp/wk15-4.png" width="40%">
 
 **Debugging next steps**    
 My resistor might be too big. I'll swap it for a potentiometer which will give me more control over sensitivity.

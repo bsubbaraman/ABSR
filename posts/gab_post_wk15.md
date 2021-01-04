@@ -1,13 +1,13 @@
 ## slow progress
-Actually got to send data to a web page...
+Actually got to send data to a web page but not really getting a clear sensor signal.
+The circuit:
+<img src="/images/wk15exp/IMG_0135.jpg" width="40%">
 
-<img src="/images/wk15exp/wk15-1.png" width="40%"><img src="/images/wk15exp/wk15-2.png" width="40%">
-<img src="/images/wk15exp/wk15-3.png" width="40%"><img src="/images/wk15exp/wk15-4.png" width="40%">
+Sensor reading?
+<img src="/images/wk15exp/wk15-3.jpg" width="40%"><img src="/images/wk15exp/wk15-4.jpg" width="40%">
 
-... but not really getting a clear sensor signal.
-
-<img src="/images/wk15exp/wk15-6.png" width="40%">
-
+Debugging next steps:
+My resistor might be too big for this. I'll swap it for a potentiometer which will give me more control over sensitivity.
 
 
 ## refining RQs

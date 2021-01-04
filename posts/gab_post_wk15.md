@@ -26,6 +26,6 @@ My resistor might be too big. I'll swap it for a potentiometer which will give m
 4. Can design inquiry methods be extended through ethnography?
 
 ## thoughts on the general pace and format of the project
-Thoughts evolve much faster than things and this project, as a design inquiry, is also about the process of making and fine-tuning the interaction. So perhaps something interesting would be to create detailed "making log" entries, weaving in things we learnt each week both on the design and theoretical (or historical) side. Basically elevating the weekly posts to legit auto-ethnographic investigations.
+Thoughts evolve much faster than things and this project, as a design inquiry, is also about the process of making and fine-tuning the interaction. So perhaps it could be interesting to create detailed "making log" entries, weaving in things we learn each week both on the design and theoretical (or historical) sides. Basically elevating the weekly posts to legit auto-ethnographic investigations (perhaps they already are but being more intentional about it?).
 
 

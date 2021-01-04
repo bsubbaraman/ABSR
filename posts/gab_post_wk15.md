@@ -1,11 +1,13 @@
 ## slow progress
 Actually got to send data to a web page...
 
-[bunch of images here]
+<img src="/images/wk15exp/wk15-1.png" width="40%"><img src="/images/wk15exp/wk15-2.png" width="40%">
+<img src="/images/wk15exp/wk15-3.png" width="40%"><img src="/images/wk15exp/wk15-4.png" width="40%">
 
 ... but not really getting a clear sensor signal.
 
-[more images]
+<img src="/images/wk15exp/wk15-6.png" width="40%">
+
 
 
 ## refining RQs

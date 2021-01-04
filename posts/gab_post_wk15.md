@@ -5,18 +5,18 @@ Actually got to send data to a web page but not really getting a clear sensor si
 <img src="/images/wk15exp/IMG_0135.jpg" width="40%">
 
 **Materials**
-ESP8266/nodeMCU
-1k resistor
-LDR
-jumper wires
-breadboard
-micro usb to USB B
+ESP8266/nodeMCU  
+1k resistor  
+LDR  
+jumper wires  
+breadboard  
+micro usb to USB B  
 
 **Sensor reading?**    
 <img src="/images/wk15exp/wk15-3.jpg" width="40%"><img src="/images/wk15exp/wk15-4.jpg" width="40%">
 
 **Debugging next steps**    
-My resistor might be too big (1k). I'll swap it for a potentiometer which will give me more control over sensitivity.
+My resistor might be too big. I'll swap it for a potentiometer which will give me more control over sensitivity.
 
 
 ## refining RQs

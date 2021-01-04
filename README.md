@@ -1,4 +1,16 @@
 ## Weekly log
+
+### Week 15 of this project/1 of winter quarter
+[Gab's post](posts/gab_post_wk15.md)
+
+### Week 12 | Last week of fall quarter
+[Gab's post](posts/gab_post_wk12.md)  
+[Blair's post](posts/blair_post_wk12.md)
+
+### Week 11
+[Blair's post](posts/blair_post_wk11.md)  
+[Gab's post](posts/gab_post_wk11.md)
+
 ### Week 10
 What happened the last three weeks!? Gab had prelims and then it was Thanksgiving! 
 
@@ -9,11 +21,14 @@ Let's focus more on RQ2. Specifically:
 - the politics of knowledge: which knowledge is valid, which is not, how does technology propagates a certain type of logic into the world... but does it?
 - Politics of knowledge bring us back to Foucault, and also Isabelle Stengers
 - The body as a site of knowledge that has been historically dismissed in computing (and I'm down to unpack that history for the paper)
-- Work that deals 
+- Work that deals with the body in interaction design and HCI often deals with the "medical" body, the visible body but there are interesting traditions that engage with the "invisible" or subtle body.
+- What would it mean --politically and in terms of design possibilities-- to design for the subtle body?
+  - magic machines workshop might be a good inspiration here.  
 
-Inspiration: [Human-Computer Insurrection](https://arxiv.org/pdf/1908.06167.pdf) (def a nod of to the [Coming Insurrection](https://theanarchistlibrary.org/library/comite-invisible-the-coming-insurrection)) 
+More inspiration: [Human-Computer Insurrection.](https://arxiv.org/pdf/1908.06167.pdf)
 
-[Gab's post](posts/gab_post_wk10.md)
+[Gab's post](posts/gab_post_wk10.md)  
+[Blair's post](posts/blair_post_wk10.md)
 
 
 ### Week 7
@@ -26,6 +41,7 @@ This week:
   - RQ2: How can alternative (i.e. non-numerical) representations of biodata foster critical reflection on the body as a site of political contestation?/body as a site of knowledge?
 
 [Blair's post](posts/blair_post_wk7.md)  
+
 [Gab's post](posts/gab_post_wk7.md)
 
 ### Week 6

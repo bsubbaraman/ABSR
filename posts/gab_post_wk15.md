@@ -13,10 +13,16 @@ breadboard
 micro usb to USB B  
 
 **Sensor reading?**    
-<img src="/images/wk15exp/wk15-3.jpg" width="40%"><img src="/images/wk15exp/wk15-4.jpg" width="40%">
+<img src="/images/wk15exp/wk15-3.png" width="4=50%"> 
+Very unsual reading for an ldr (I was expecting more in the 700s). It also barely changes. My resistor's probably be too big.
+
+I also tried to send the data to a spreadsheet with [pushingbox](https://www.pushingbox.com/scenarios_edit.php?scenario_ID=135462) but while the nodeMCU seems to be sending it *somewhere* it ain't my spreadsheet.
+
+<img src="/images/wk15exp/spreadsheet.png" width="4=50%"> 
+
 
 **Debugging next steps**    
-My resistor might be too big. I'll swap it for a potentiometer which will give me more control over sensitivity.
+I'll swap the resistor for a potentiometer which will give me more control over sensor sensitivity.
 
 
 ## refining RQs

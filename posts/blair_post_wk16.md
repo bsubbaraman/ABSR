@@ -8,4 +8,4 @@ I had what I thought was a great idea to turn BodyTeller to an app on [Glitch](h
 - Noura Howell’s ‘Ripple’ had a push-button for manual override, which allowed wearers to turn on the lights of their garment. Might think about a button like this on BodyTeller, with the text decorated differently in some way? This also feeds into questions about logging frequency and the extent to which we give ourselves control over the frequency.
 
 ## Reading Group
-We talked a bit about reading some work together to ground our research. Here's an all-over-the-place list of (possibly) relevant readings: 
+We talked a bit about reading some work together to ground our research. Here's some (possibly) relevant readings: 

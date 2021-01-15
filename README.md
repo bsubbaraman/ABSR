@@ -1,5 +1,8 @@
 ## Weekly log
 
+### Week 16
+[Blair's post](posts/blair_post_wk16.md)
+
 ### Week 15 of this project/1 of winter quarter
 [Gab's post](posts/gab_post_wk15.md)
 

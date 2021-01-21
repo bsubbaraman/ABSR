@@ -1,6 +1,7 @@
 ## Lab Notebook
 Keeping a log of how I provision the RPi to refer back to.
 
-- flash sd card with [latest OS](https://www.raspberrypi.org/software/)
-  - note: using an 8 gb sd card bc that's what I have on hand. that should be fine, but can re-flash .img to something bigger later if we need
+- flash sd card (32 gb) with [latest OS](https://www.raspberrypi.org/software/)
+- give my pi a static IP (this [source](https://howchoo.com/pi/configure-static-ip-address-raspberry-pi) worked.)
+  - IP is 192.168.1.18
 - 

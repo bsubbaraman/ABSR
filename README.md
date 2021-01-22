@@ -2,6 +2,8 @@
 
 ### Week 17
 
+[Gab's post](posts/gab_post_wk17.md)
+
 ### Week 16
 [Blair's post](posts/blair_post_wk16.md)  
 [Gab's post](posts/gab_post_wk16.md)

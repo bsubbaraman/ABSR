@@ -13,6 +13,7 @@ First print:
 <img src="/images/case_first_print.jpg" width="40%">  
 Parts fit in it but we need diff parts  
 
+
 <img src="/images/case_parts.jpg" width="40%">    
 More parts, including probes and bigger battery
 

@@ -1,7 +1,7 @@
 ## Weekly log
 
-### Week 18
-
+### Week 18  
+[Gab's post](posts/gab_post_wk19.md)  
 
 ### Week 17
 

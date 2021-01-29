@@ -18,7 +18,7 @@ Very unsual reading for an ldr (I was expecting more in the 700s). It also barel
 
 I also tried to send the data to a spreadsheet with [pushingbox](https://www.pushingbox.com/) but while the nodeMCU seems to be sending it *somewhere* but that somewhere ain't my spreadsheet.
 
-<img src="/images/wk15exp/spreadsheet.png" width="4=50%"> 
+<img src="/images/wk15exp/spreadsheet.png" width="50%"> 
 
 
 **Debugging next steps**    

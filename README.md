@@ -1,7 +1,7 @@
 ## Weekly log
 
 ### Week...? No longer keeping track
-Gab's post
+[Gab's post](posts/gab_post_3.4.21.md)
 
 ### Week 18  
 [Gab's post](posts/gab_post_wk19.md)  

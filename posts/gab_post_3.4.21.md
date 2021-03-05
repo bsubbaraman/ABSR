@@ -1,4 +1,4 @@
-# About EDA
+# On reading EDA and understanding what's going on
 
 ### From Boucsein, W (2012) Electrodermal activity (2nd Ed). New York: Springer
 

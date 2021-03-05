@@ -2,6 +2,7 @@
 
 ### Week...? No longer keeping track
 [Gab's post](posts/gab_post_3.4.21.md)
+[Blair's post](posts/blair_post_20210305.md)
 
 ### Week 18  
 [Gab's post](posts/gab_post_wk19.md)  

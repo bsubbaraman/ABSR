@@ -1,7 +1,7 @@
 ## Weekly log
 
 ### Week...? No longer keeping track
-[Gab's post](posts/gab_post_3.4.21.md)
+[Gab's post](posts/gab_post_3.4.21.md)    
 [Blair's post](posts/blair_post_20210305.md)
 
 ### Week 18  
@@ -16,8 +16,7 @@
 [Gab's post](posts/gab_post_wk16.md)
 
 ### Week 15 of this project/1 of winter quarter
-[Gab's post](posts/gab_post_wk15.md)
-
+[Gab's post](posts/gab_post_wk15.md)    
 [Blair's post](posts/blair_post_wk15.md)
 
 ### Week 12 | Last week of fall quarter
@@ -57,8 +56,7 @@ This week:
   - RQ1: How can biodata foster long-distance intimacy?
   - RQ2: How can alternative (i.e. non-numerical) representations of biodata foster critical reflection on the body as a site of political contestation?/body as a site of knowledge?
 
-[Blair's post](posts/blair_post_wk7.md)  
-
+[Blair's post](posts/blair_post_wk7.md)     
 [Gab's post](posts/gab_post_wk7.md)
 
 ### Week 6

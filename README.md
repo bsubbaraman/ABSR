@@ -1,5 +1,8 @@
 ## Weekly log
 
+### Week of April 2
+[Blair's post](posts/blair_post_20200402.md)
+
 ### Week...? No longer keeping track
 [Gab's post](posts/gab_post_3.4.21.md)    
 [Blair's post](posts/blair_post_20210305.md)

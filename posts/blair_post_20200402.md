@@ -1,0 +1,10 @@
+whew- getting the BodyTeller PCB schematic done has been a trip and involved a lot of on the fly learning about various software & hardware:
+
+- first, in wanting to use a smaller esp8266 SMT module (i.e. [the ESP-12F](https://www.adafruit.com/product/2491))instead of a full node MCU board, i was working to recreate adafruit's esp-12F [breakout board schematic](https://cdn-learn.adafruit.com/assets/assets/000/048/352/original/adafruit_products_schem.png?1511209629).
+- then i realized we'll still need to upload our code... and adding all the .1" headers would kind of defeat the space-saving purpose of not using a nodeMCU board.
+- after much searching i found out that [dedicated programmer boards](https://www.aliexpress.com/item/32812849093.html?aff_fcid=6a33199a5594464c8bedd1b6b65398b4-1617383448143-02127-cZCikVg4&spm=a2g0s.9042311.0.0.27424c4dnTSrQX&aff_fsk=cZCikVg4&aff_platform=link-c-tool&sk=cZCikVg4&aff_trace_key=6a33199a5594464c8bedd1b6b65398b4-1617383448143-02127-cZCikVg4&terminal_id=de8b3a448f8846079cbac51f6165ef0b) exist!
+- so: i think a reasonable plan is to omit the adafruit schematic components that are only necessary for uploading code & instead use the dedicated programmer board; after the first upload, we can solder the esp into our PCB and use over-the-air (OTA) upload for future updates.
+-  a note on logistics: the dedicated programmer boards say they can get here by mid-to-late April depending on what shipping we select. i couldn't find other sellers of this, but i think this works with our timeline (and the extra cost of shipping pays for the time & energy that we'd have to spend in building out our own, I think). 
+
+
+[i made some notes on what pins do what](https://raw.githubusercontent.com/bsubbaraman/ABSR/gh-pages/images/BodyTellerPCBnotes.pdf), which is basically consolidates info from the [breakout board pinout](https://learn.adafruit.com/adafruit-huzzah-esp8266-breakout/pinouts), [esp8266 datasheet](https://cdn-shop.adafruit.com/product-files/2471/0A-ESP8266__Datasheet__EN_v4.3.pdf), and [esp12f datasheet](https://docs.ai-thinker.com/_media/esp8266/docs/esp-12f_product_specification_en.pdf).
